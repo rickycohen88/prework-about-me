@@ -31,6 +31,10 @@ body {
     text-transform: uppercase;
     color: #ffffff;
 }
+.masthead-ending { 
+  text-align: center;
+
+}
 
 .details {
     max-width: 38em;
